@@ -43,7 +43,7 @@ Sales-Analysis-Dashboard/
 ---
 
 ## 📸 Dashboard Preview  
-![Sales Analysis Dashboard](images/Sales Analysis Dashboard.png)  
+![Sales Analysis Dashboard](images/Sales.jpg)  
 
 ---
 
