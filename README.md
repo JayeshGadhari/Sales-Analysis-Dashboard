@@ -4,7 +4,7 @@
 The **Sales Analysis Dashboard** provides an interactive analysis of **Amazon product sales** using **Power BI**.  
 It tracks sales performance, customer engagement, and product trends with key KPIs such as **YTD Sales, QTD Sales, Products Sold, and Reviews**.  
 
-This project demonstrates skills in **Power BI data modeling, DAX measures, Power Query transformations, and interactive visualization design**.  
+This project demonstrates skills in **Power BI data modeling, DAX measures, Power Query transformations, and interactive visualization design**.
 
 ---
 
