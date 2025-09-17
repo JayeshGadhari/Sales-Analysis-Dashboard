@@ -33,11 +33,14 @@ This project demonstrates skills in **Power BI data modeling, DAX measures, Powe
 ---
 
 ## 📂 Project Structure  
+```
 Sales-Analysis-Dashboard/
 ├── Amazon_data.csv                   # Cleaned datasets
 ├── images/                           # Screenshots
 ├── dashboard.pbix                    # Power BI File
 └── README.md                         # Project documentation
+
+```
 
 ---
 
