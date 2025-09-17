@@ -34,19 +34,16 @@ This project demonstrates skills in **Power BI data modeling, DAX measures, Powe
 
 ## 📂 Project Structure  
 Sales-Analysis-Dashboard/
-│
+---
 ├── Amazon_data.csv        # Cleaned datasets
 ├── images/                # Screenshots
 ├── dashboard.pbix         # Power BI / Tableau file             
 └── README.md              # Project documentation
 
-===
-
-
 ---
 
 ## 📸 Dashboard Preview  
-![Sales Analysis Dashboard](images/Sales Analysis Dashboard.jpg)  
+![Sales Analysis Dashboard](images/Sales Analysis Dashboard.png)  
 
 ---
 
